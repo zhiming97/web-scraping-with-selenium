@@ -43,7 +43,7 @@ re enclosed in brackets [ ] instead of parentheses ( ).
 
 <br />
   <br />
-<p align="justify">Web Scraping is the process of collecting information from a particular website by downloading the html contents of the site and then parsing that data to extract the data of interest. Some of the main use cases of web scraping include information gathering, market research et.c. among many others. It is web scraping is used by individuals or businesseses who want to make use of publicly available web data to make smarter decisions.
+<p align="justify">Web Scraping is the process of collecting information from a particular website by downloading the html contents of the site and then parsing that data to extract the data of interest. Some of the main use cases of web scraping include information gathering, market research and etc. Web scraping is used by individuals or businesseses who want to make use of publicly available web data to make smarter decisions.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
