@@ -59,36 +59,29 @@ re enclosed in brackets [ ] instead of parentheses ( ).
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<!-- GETTING STARTED -->
-## Data Visualisation
-### Heatmap: Message count per day
+## Process Flow 
+### Web Scraping
 
-![Figure_1](https://user-images.githubusercontent.com/97498951/211147596-52fc71a0-7872-4ab9-85bc-07c18d4ad641.png)
+![image](https://user-images.githubusercontent.com/97498951/216298637-bcb187f8-96ad-48f1-8fbe-768857552f5e.png)
 
-
-
-  
-<br />
-
-<p align="justify">
-Based on the calendar heatmap shown above, it is known that the first conversation between the users started in 2015, on a Wednesday, in the first week of November. They started texting occasionally, averaging around less than 100 messages were exchanged per day. However, in 2016, there is an obvious drop in the number of times they texted each other throughout the year, except on the third week of December which saw a spike in messages exchanged. From then onwards, they rarely got into a conversation with each other throughout the year 2017, 2018, 2019, 2020 and 2021. Interestingly, in year 2022, both of them were messaging each other frequently starting at the end of September towards the end of the year.  </p>
-
-### Wordcloud: Word frequencies
-
-![Figure_2](https://user-images.githubusercontent.com/97498951/211146851-853c1648-7b9c-448c-be78-dc71fca686a2.png)
-
-By looking at the wordcloud above, it is known that most of the frequently used words are "say", "see", "ask", "come" etc. Unfortunately, these words do not show the context of their conversations. 
-  
-  <br />
-  <br />
-<img width="1042" alt="image" src="https://user-images.githubusercontent.com/97498951/211156070-3c2c27c1-9532-4d78-ab66-f58e947a9c9d.png">
-
-<br />
-<br />
-<p align="justify">
-However, when we look into the frequent appeared words from the end of September towards the end of the year (which is the period where they started to text each other frequently), it is found that words like "play", "Friday", "badminton", "book", "wat time" are among the frequently appeared words in their conversations. These words may be an indicator that maybe they could be making plans together (probably playing badminton). </p>
+   1. Import selenium, pandas, time, and the re modules
+   2. Define the path of the chromedriver.exe
+   3. Open Chrome(or other browsers) using the webdriver imported from Selenium.
+   4. Proceed to the webpage ''https://www.lazada.com.my/shop-mobiles/apple/'
+   5. Find the xpath of the title and price of each listing. Also, find the xpath of the "next page" button.
+   6. Loop the web scraping process based on the total number of pages displayed on the website.
+   7. Convert the newly created list with all the listing's title and pricing details into a DataFrame using pandas.
+   8. Define a function to remove emojis from the listing's title and apply it in the DataFrame.
+   9. Export the DataFrame into csv.
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Tableau Dashboard [ View Now ](https://public.tableau.com/app/profile/zhiming/viz/IphoneListingsonLazada/Dashboard1?publish=yes)
+
+![image](https://user-images.githubusercontent.com/97498951/216310882-0122d036-5907-4866-a6c6-80eb2af52229.png)
+
+
+
 <!-- References -->
 ## References 
 * [Text Cleaning (Remove Emojis) ](https://gist.github.com/slowkow/7a7f61f495e3dbb7e3d767f97bd7304b)
