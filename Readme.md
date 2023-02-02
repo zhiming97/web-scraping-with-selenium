@@ -88,7 +88,7 @@ re enclosed in brackets [ ] instead of parentheses ( ).
 - There are a total 124 Apple smartphone's listings on Lazada
 - Iphone 14 has the most number of listings (35 units)
 - The cheapest listed apple phone is "Iphone 5S - 16GB (Demo)" and the most expensive apple smartphone listed is "Apple Iphone 13 Pro Max 1 TB"
-- The median price for Iphone 14 regardless of price and storage space is RM 4,699. The cheapest price for this model is RM 3,899 and the highest price is listed for RM 5,799.
+- The median price for Iphone 14 regardless of price and storage space is RM 4,699. The cheapest price for this model is RM 3,899 and the highest price is RM 5,799.
 - The median price for Iphone 13 regardless of price and storage space is RM 3,899. The lowest price listed for Iphone 13 is RM 3,199 and the most expensive phone is listed for RM 7,269.
 - There are only one iPhone XS and one iPhone 5S listed on Lazada.
 
