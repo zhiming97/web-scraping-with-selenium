@@ -76,12 +76,28 @@ re enclosed in brackets [ ] instead of parentheses ( ).
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## [Tableau Dashboard](https://public.tableau.com/app/profile/zhiming/viz/IphoneListingsonLazada/Dashboard1?publish=yes)
+## [Tableau Dashboard](https://public.tableau.com/app/profile/zhiming/viz/IphoneListingsonLazadaDashboard/Dashboard1?publish=yes)
 
 ![image](https://user-images.githubusercontent.com/97498951/216310882-0122d036-5907-4866-a6c6-80eb2af52229.png)
 
-[ Click Here To View The Dashboard ](https://public.tableau.com/app/profile/zhiming/viz/IphoneListingsonLazada/Dashboard1?publish=yes)
+[ Click Here To View The Dashboard ](https://public.tableau.com/app/profile/zhiming/viz/IphoneListingsonLazadaDashboard/Dashboard1?publish=yes)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Findings
+- There are a total 124 Apple smartphone's listings on Lazada
+- Iphone 14 has the most number of listings (35 units)
+- The cheapest listed apple phone is "Iphone 5S - 16GB (Demo)" and the most expensive apple smartphone listed is "Apple Iphone 13 Pro Max 1 TB"
+- The median price for Iphone 14 regardless of price and storage space is RM 4,699. The cheapest price for this model is RM 3,899 and the highest price is listed for RM 5,799.
+- The median price for Iphone 13 regardless of price and storage space is RM 3,899. The lowest price listed for Iphone 13 is RM 3,199 and the most expensive phone is listed for RM 7,269.
+- There are only one iPhone XS and one iPhone 5S listed on Lazada.
+
+
+
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- References -->
 ## References 
 * [Text Cleaning (Remove Emojis) ](https://gist.github.com/slowkow/7a7f61f495e3dbb7e3d767f97bd7304b)
