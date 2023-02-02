@@ -76,11 +76,11 @@ re enclosed in brackets [ ] instead of parentheses ( ).
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Tableau Dashboard [ View Now ](https://public.tableau.com/app/profile/zhiming/viz/IphoneListingsonLazada/Dashboard1?publish=yes)
+## [Tableau Dashboard](https://public.tableau.com/app/profile/zhiming/viz/IphoneListingsonLazada/Dashboard1?publish=yes)
 
 ![image](https://user-images.githubusercontent.com/97498951/216310882-0122d036-5907-4866-a6c6-80eb2af52229.png)
 
-
+[ Click Here To View The Dashboard ](https://public.tableau.com/app/profile/zhiming/viz/IphoneListingsonLazada/Dashboard1?publish=yes)
 
 <!-- References -->
 ## References 
