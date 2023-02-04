@@ -91,6 +91,7 @@ re enclosed in brackets [ ] instead of parentheses ( ).
 - The median price for Iphone 14 regardless of price and storage space is RM 4,699. The cheapest price for this model is RM 3,899 and the highest price is RM 5,799.
 - The median price for Iphone 13 regardless of price and storage space is RM 3,899. The lowest price listed for Iphone 13 is RM 3,199 and the most expensive phone is listed for RM 7,269.
 - There are only one iPhone XS and one iPhone 5S listed on Lazada.
+- There are two listings of Apple Iphone 12 which are located outside the whisker of the boxplot. This indicates that these 2 listings are outliers and they are highly likely to have the wrong pricing.
 
 
 
